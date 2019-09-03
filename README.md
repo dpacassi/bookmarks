@@ -5,6 +5,7 @@ Want to add yours? Pull requests are welcome!
 ## Data Science
 - [The 5 Sampling Algorithms every Data Scientist need to know](https://towardsdatascience.com/the-5-sampling-algorithms-every-data-scientist-need-to-know-43c7bc11d17c)
 - [Python Machine Learning Tutorial: Predicting Airbnb Prices](https://www.dataquest.io/blog/machine-learning-tutorial/)
+- [How to learn D3.js](https://wattenberger.com/blog/d3)
 
 ## Drupal
 - [UltimateDrupalReference](https://github.com/dpacassi/UltimateDrupalReference)
